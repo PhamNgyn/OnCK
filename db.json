@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop Dell XPS 13",
+      "price": 25000000,
+      "description": "Laptop siêu mỏng nhẹ với màn hình 13 inch, hiệu năng cao.",
+      "image": "a1.png"
+    },
+    {
+      "id": "2",
+      "name": "Iphone 14 Pro",
+      "price": 30000000,
+      "description": "Điện thoại thông minh với camera 48MP và chip A16 Bionic.",
+      "image": "a2.png"
+    },
+    {
+      "id": "3",
+      "name": "Tai nghe Sony WH-1000XM5",
+      "price": 8500000,
+      "description": "Tai nghe không dây chống ồn cao cấp, âm thanh chất lượng.",
+      "image": "a3.png"
+    },
+    {
+      "id": "4",
+      "name": "Máy ảnh Canon EOS R10",
+      "price": 22000000,
+      "description": "Máy ảnh mirrorless với cảm biến APS-C, phù hợp cho người mới.",
+      "image": "a4.png"
+    },
+    {
+      "id": "5",
+      "name": "Bàn phím cơ Keychron K8",
+      "price": 2000000,
+      "description": "Bàn phím cơ không dây, switch Gateron, RGB.",
+      "image": "a5.png"
+    },
+    {
+      "id": "6",
+      "name": "Chuột Logitech MX Master 3S",
+      "price": 2500000,
+      "description": "Chuột văn phòng cao cấp, cảm biến chính xác, thiết kế tiện lợi.",
+      "image": "a6.png"
+    },
+    {
+      "id": "7",
+      "name": "Màn hình LG UltraGear 27GP850",
+      "price": 12000000,
+      "description": "Màn hình gaming 27 inch, độ phân giải 2K, tần số quét 165Hz.",
+      "image": "a7.png"
+    },
+    {
+      "id": "8",
+      "name": "Loa Bluetooth JBL Flip 6",
+      "price": 3000000,
+      "description": "Loa di động chống nước, âm thanh mạnh mẽ, pin lâu.",
+      "image": "a8.png"
+    },
+    {
+      "id": "9",
+      "name": "Apple Watch Series 8",
+      "price": 10000000,
+      "description": "Đồng hồ thông minh với cảm biến sức khỏe tiên tiến.",
+      "image": "a9.png"
+    },
+    {
+      "id": "10",
+      "name": "Túi đựng laptop Tomtoc",
+      "price": 800000,
+      "description": "Túi đựng laptop 15 inch, chống sốc, thiết kế thời trang.",
+      "image": "a10.png"
+    }
+  ]
+}
